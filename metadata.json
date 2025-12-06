@@ -1,0 +1,5 @@
+{
+  "name": "Simple Gemini Chat",
+  "description": "A minimalist, responsive chat interface powered by the Gemini 2.5 Flash model. It features a clean design, real-time message updates, and error handling.",
+  "requestFramePermissions": []
+}
